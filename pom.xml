@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<!-- Basic repository metadata -->
+	<groupId>org.aeros</groupId>
+	<artifactId>self-optimization-experiments</artifactId>
+	<version>1.0.0</version>
+	<description>Framework for conducting experiments comparing self-optimization/adaptation algorithms to other existing SotA approaches in aerOS Continuum.</description>
+
+	<!-- Version control and properties -->
+	<properties>
+		<maven.compiler.release>22</maven.compiler.release>
+		<org.lombok.version>1.18.34</org.lombok.version>
+		<org.junit.version>5.11.0</org.junit.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<org.maven-surefire.version>3.2.5</org.maven-surefire.version>
+		<org.apache.version>3.14.0</org.apache.version>
+		<org.feign.version>4.2.0</org.feign.version>
+		<org.xchart.version>3.8.8</org.xchart.version>
+	</properties>
+
+	<!-- Included dependencies -->
+	<dependencies>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-math3</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.knowm.xchart</groupId>
+			<artifactId>xchart</artifactId>
+			<version>${org.xchart.version}</version>
+		</dependency>
+	</dependencies>
+
+	<!-- Dependencies management -->
+	<dependencyManagement>
+		<dependencies>
+			<!-- Tests -->
+			<dependency>
+				<groupId>org.junit</groupId>
+				<artifactId>junit-bom</artifactId>
+				<version>${org.junit.version}</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<!-- Lombok -->
+			<dependency>
+				<groupId>org.projectlombok</groupId>
+				<artifactId>lombok</artifactId>
+				<version>${org.lombok.version}</version>
+			</dependency>
+			<!-- Apache -->
+			<dependency>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-lang3</artifactId>
+				<version>${org.apache.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-math3</artifactId>
+				<version>3.6.1</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<!-- Build configuration -->
+	<build>
+		<plugins>
+			<!-- Fixing test's warnings -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>${org.maven-surefire.version}</version>
+				<configuration>
+					<argLine>-XX:+EnableDynamicAgentLoading</argLine>
+					<argLine>-Djava.awt.headless=true</argLine>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>22</source>
+					<target>22</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

@@ -1,0 +1,123 @@
+{
+  "name": "numenta-anomaly-spikes",
+  "description": "Test executed on Numenta CPU spikes.",
+  "ie": {
+    "id": "urn:ngsi-ld:InfrastructureElement:test:fa163e32c6ee",
+    "cpuCores": 20,
+    "ramCapacity": 15615,
+    "diskCapacity": 68172,
+    "data": "numenta-load-balancer-spikes.json"
+  },
+  "evaluationMetrics": {
+    "MAPE_CPU": null,
+    "SAMPLE_RATIO": null,
+    "JPM_CPU": null,
+    "ANOMALY_SCORE_CPU": {
+      "name": "SCORING",
+      "anomalyWindows": [
+        {
+          "startIdx": 2736,
+          "endIdx": 3138
+        }
+      ],
+      "truePositiveWeight": 1.0,
+      "falsePositiveWeight": 0.02,
+      "falseNegativeWeight": 1.0,
+      "baseline": -1
+    },
+    "ANOMALY_SCORE_NAB": {
+      "name": "SCORING",
+      "anomalyWindows": [
+        {
+          "startIdx": 2789,
+          "endIdx": 3191
+        }
+      ],
+      "truePositiveWeight": 1.0,
+      "falsePositiveWeight": 0.05,
+      "falseNegativeWeight": 1.0,
+      "baseline": -1
+    }
+  },
+  "baseAlgorithmsConfig": [
+    {
+      "type": "ANOMALY",
+      "config": {
+        "type": "ANOMALY",
+        "modelsProperties": [
+          {
+            "name": "CPU_USAGE",
+            "toleranceThresholdAnomaly": 0.3,
+            "toleranceThresholdNormal": 0.05,
+            "windowAnomaly": 1,
+            "windowNormal": 1
+          },
+          {
+            "name": "DISK_USAGE",
+            "toleranceThresholdAnomaly": 0.7,
+            "toleranceThresholdNormal": 0.7,
+            "windowAnomaly": 10,
+            "windowNormal": 10
+          },
+          {
+            "name": "RAM_USAGE",
+            "toleranceThresholdAnomaly": 0.7,
+            "toleranceThresholdNormal": 0.7,
+            "windowAnomaly": 10,
+            "windowNormal": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "SAMPLING",
+      "config": {
+        "type": "SAMPLING",
+        "modelsProperties": [
+          {
+            "type": "RESOURCE",
+            "minPeriod": 1000,
+            "maxPeriod": 6000,
+            "valueWeightFactor": 0.5,
+            "probabilityWeightFactor": 1,
+            "imprecision": 0.6,
+            "multiplicity": 3000
+          },
+          {
+            "type": "ENERGY",
+            "minPeriod": 1000,
+            "maxPeriod": 2000,
+            "valueWeightFactor": 0.5,
+            "probabilityWeightFactor": 1,
+            "imprecision": 0.6,
+            "multiplicity": 10
+          }
+        ]
+      }
+    }
+  ],
+  "algorithmsForComparison": [
+    {
+      "type": "ART",
+      "params": {
+        "type": "ART",
+        "detectionResultsFileName": "ARTime_art_load_balancer_spikes.csv",
+        "detectionCSVFileName": "artificialWithAnomaly/art_load_balancer_spikes.csv",
+        "scoreFileName": "ARTime_results.csv",
+        "metricType": "CPU",
+        "threshold": 0.31
+      }
+    },
+    {
+      "type": "CONTEXTOSE",
+      "params": {
+        "type": "CONTEXTOSE",
+        "detectionResultsFileName": "contextOSE_art_load_balancer_spikes.csv",
+        "detectionCSVFileName": "artificialWithAnomaly/art_load_balancer_spikes.csv",
+        "scoreFileName": "contextOSE_results.csv",
+        "metricType": "CPU",
+        "threshold": 0.695
+      }
+    }
+  ]
+}

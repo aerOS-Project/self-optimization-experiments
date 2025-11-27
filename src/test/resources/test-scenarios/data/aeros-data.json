@@ -1,0 +1,3308 @@
+[
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9509
+    },
+    "currentRamUsage": {
+      "value": 6106
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39079
+    },
+    "currentDiskUsage": {
+      "value": 29093
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 5
+    },
+    "availableRam": {
+      "value": 11544
+    },
+    "currentRamUsage": {
+      "value": 4071
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39802
+    },
+    "currentDiskUsage": {
+      "value": 28370
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 17
+    },
+    "availableRam": {
+      "value": 9521
+    },
+    "currentRamUsage": {
+      "value": 6094
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39079
+    },
+    "currentDiskUsage": {
+      "value": 29093
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 5
+    },
+    "availableRam": {
+      "value": 11548
+    },
+    "currentRamUsage": {
+      "value": 4067
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39802
+    },
+    "currentDiskUsage": {
+      "value": 28370
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.1
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 9510
+    },
+    "currentRamUsage": {
+      "value": 6105
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39079
+    },
+    "currentDiskUsage": {
+      "value": 29093
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11541
+    },
+    "currentRamUsage": {
+      "value": 4074
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39801
+    },
+    "currentDiskUsage": {
+      "value": 28371
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9513
+    },
+    "currentRamUsage": {
+      "value": 6102
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39079
+    },
+    "currentDiskUsage": {
+      "value": 29093
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11589
+    },
+    "currentRamUsage": {
+      "value": 4026
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39801
+    },
+    "currentDiskUsage": {
+      "value": 28371
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.17
+    },
+    "netTrafficDown": {
+      "value": 0.04
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9577
+    },
+    "currentRamUsage": {
+      "value": 6038
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39079
+    },
+    "currentDiskUsage": {
+      "value": 29093
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.04
+    },
+    "netTrafficDown": {
+      "value": 0.18
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 11535
+    },
+    "currentRamUsage": {
+      "value": 4080
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39801
+    },
+    "currentDiskUsage": {
+      "value": 28371
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.18
+    },
+    "netTrafficDown": {
+      "value": 0.02
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 19
+    },
+    "availableRam": {
+      "value": 9508
+    },
+    "currentRamUsage": {
+      "value": 6107
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.02
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 5
+    },
+    "availableRam": {
+      "value": 11544
+    },
+    "currentRamUsage": {
+      "value": 4071
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39801
+    },
+    "currentDiskUsage": {
+      "value": 28371
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.13
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 14
+    },
+    "availableRam": {
+      "value": 9505
+    },
+    "currentRamUsage": {
+      "value": 6110
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.07
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11541
+    },
+    "currentRamUsage": {
+      "value": 4074
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39801
+    },
+    "currentDiskUsage": {
+      "value": 28371
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9498
+    },
+    "currentRamUsage": {
+      "value": 6117
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 3
+    },
+    "availableRam": {
+      "value": 11590
+    },
+    "currentRamUsage": {
+      "value": 4025
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9560
+    },
+    "currentRamUsage": {
+      "value": 6055
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11537
+    },
+    "currentRamUsage": {
+      "value": 4078
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.15
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 17
+    },
+    "availableRam": {
+      "value": 9511
+    },
+    "currentRamUsage": {
+      "value": 6104
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.06
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11539
+    },
+    "currentRamUsage": {
+      "value": 4076
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9504
+    },
+    "currentRamUsage": {
+      "value": 6111
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.04
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11542
+    },
+    "currentRamUsage": {
+      "value": 4073
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 15
+    },
+    "availableRam": {
+      "value": 9536
+    },
+    "currentRamUsage": {
+      "value": 6079
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39078
+    },
+    "currentDiskUsage": {
+      "value": 29094
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11571
+    },
+    "currentRamUsage": {
+      "value": 4044
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9604
+    },
+    "currentRamUsage": {
+      "value": 6011
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11540
+    },
+    "currentRamUsage": {
+      "value": 4075
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.07
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 9536
+    },
+    "currentRamUsage": {
+      "value": 6079
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39070
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.06
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 3
+    },
+    "availableRam": {
+      "value": 11541
+    },
+    "currentRamUsage": {
+      "value": 4074
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.17
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9535
+    },
+    "currentRamUsage": {
+      "value": 6080
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39070
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.04
+    },
+    "netTrafficDown": {
+      "value": 0.17
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11540
+    },
+    "currentRamUsage": {
+      "value": 4075
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.12
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9538
+    },
+    "currentRamUsage": {
+      "value": 6077
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39070
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.11
+    },
+    "netTrafficDown": {
+      "value": 0.02
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11530
+    },
+    "currentRamUsage": {
+      "value": 4085
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9571
+    },
+    "currentRamUsage": {
+      "value": 6044
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11528
+    },
+    "currentRamUsage": {
+      "value": 4087
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 9
+    },
+    "availableRam": {
+      "value": 9549
+    },
+    "currentRamUsage": {
+      "value": 6066
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39070
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11525
+    },
+    "currentRamUsage": {
+      "value": 4090
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9539
+    },
+    "currentRamUsage": {
+      "value": 6076
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39069
+    },
+    "currentDiskUsage": {
+      "value": 29103
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11590
+    },
+    "currentRamUsage": {
+      "value": 4025
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39793
+    },
+    "currentDiskUsage": {
+      "value": 28379
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 17
+    },
+    "availableRam": {
+      "value": 9601
+    },
+    "currentRamUsage": {
+      "value": 6014
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39069
+    },
+    "currentDiskUsage": {
+      "value": 29103
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11520
+    },
+    "currentRamUsage": {
+      "value": 4095
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9551
+    },
+    "currentRamUsage": {
+      "value": 6064
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39069
+    },
+    "currentDiskUsage": {
+      "value": 29103
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11514
+    },
+    "currentRamUsage": {
+      "value": 4101
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 11
+    },
+    "availableRam": {
+      "value": 9538
+    },
+    "currentRamUsage": {
+      "value": 6077
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.38
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 5
+    },
+    "availableRam": {
+      "value": 11520
+    },
+    "currentRamUsage": {
+      "value": 4095
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.54
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 11
+    },
+    "availableRam": {
+      "value": 9536
+    },
+    "currentRamUsage": {
+      "value": 6079
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.56
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 5
+    },
+    "availableRam": {
+      "value": 11578
+    },
+    "currentRamUsage": {
+      "value": 4037
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 9
+    },
+    "availableRam": {
+      "value": 9595
+    },
+    "currentRamUsage": {
+      "value": 6020
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11520
+    },
+    "currentRamUsage": {
+      "value": 4095
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.16
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 11
+    },
+    "availableRam": {
+      "value": 9536
+    },
+    "currentRamUsage": {
+      "value": 6079
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.04
+    },
+    "netTrafficDown": {
+      "value": 0.17
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 8
+    },
+    "availableRam": {
+      "value": 11523
+    },
+    "currentRamUsage": {
+      "value": 4092
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9538
+    },
+    "currentRamUsage": {
+      "value": 6077
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11525
+    },
+    "currentRamUsage": {
+      "value": 4090
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.04
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 17
+    },
+    "availableRam": {
+      "value": 9517
+    },
+    "currentRamUsage": {
+      "value": 6098
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.04
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11586
+    },
+    "currentRamUsage": {
+      "value": 4029
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39792
+    },
+    "currentDiskUsage": {
+      "value": 28380
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 9570
+    },
+    "currentRamUsage": {
+      "value": 6045
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11551
+    },
+    "currentRamUsage": {
+      "value": 4064
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.15
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 11
+    },
+    "availableRam": {
+      "value": 9526
+    },
+    "currentRamUsage": {
+      "value": 6089
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.05
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11552
+    },
+    "currentRamUsage": {
+      "value": 4063
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 11
+    },
+    "availableRam": {
+      "value": 9525
+    },
+    "currentRamUsage": {
+      "value": 6090
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11535
+    },
+    "currentRamUsage": {
+      "value": 4080
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9526
+    },
+    "currentRamUsage": {
+      "value": 6089
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11566
+    },
+    "currentRamUsage": {
+      "value": 4049
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 9592
+    },
+    "currentRamUsage": {
+      "value": 6023
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.04
+    },
+    "netTrafficDown": {
+      "value": 0.17
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11539
+    },
+    "currentRamUsage": {
+      "value": 4076
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9536
+    },
+    "currentRamUsage": {
+      "value": 6079
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.09
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11533
+    },
+    "currentRamUsage": {
+      "value": 4082
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 9539
+    },
+    "currentRamUsage": {
+      "value": 6076
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29101
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11595
+    },
+    "currentRamUsage": {
+      "value": 4020
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.12
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9531
+    },
+    "currentRamUsage": {
+      "value": 6084
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39071
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 11539
+    },
+    "currentRamUsage": {
+      "value": 4076
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.02
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 18
+    },
+    "availableRam": {
+      "value": 9548
+    },
+    "currentRamUsage": {
+      "value": 6067
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39070
+    },
+    "currentDiskUsage": {
+      "value": 29102
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.04
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 5
+    },
+    "availableRam": {
+      "value": 11531
+    },
+    "currentRamUsage": {
+      "value": 4084
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 19
+    },
+    "availableRam": {
+      "value": 9557
+    },
+    "currentRamUsage": {
+      "value": 6058
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11537
+    },
+    "currentRamUsage": {
+      "value": 4078
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 10
+    },
+    "availableRam": {
+      "value": 9545
+    },
+    "currentRamUsage": {
+      "value": 6070
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 3
+    },
+    "availableRam": {
+      "value": 11595
+    },
+    "currentRamUsage": {
+      "value": 4020
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 1.34
+    },
+    "netTrafficDown": {
+      "value": 0.02
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 14
+    },
+    "availableRam": {
+      "value": 9583
+    },
+    "currentRamUsage": {
+      "value": 6032
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 1.71
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 7
+    },
+    "availableRam": {
+      "value": 11529
+    },
+    "currentRamUsage": {
+      "value": 4086
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 9
+    },
+    "availableRam": {
+      "value": 9546
+    },
+    "currentRamUsage": {
+      "value": 6069
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.03
+    },
+    "netTrafficDown": {
+      "value": 0.55
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 6
+    },
+    "availableRam": {
+      "value": 11529
+    },
+    "currentRamUsage": {
+      "value": 4086
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9541
+    },
+    "currentRamUsage": {
+      "value": 6074
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.03
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 8
+    },
+    "availableRam": {
+      "value": 11531
+    },
+    "currentRamUsage": {
+      "value": 4084
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.17
+    },
+    "netTrafficDown": {
+      "value": 0.05
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 12
+    },
+    "availableRam": {
+      "value": 9530
+    },
+    "currentRamUsage": {
+      "value": 6085
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.04
+    },
+    "netTrafficDown": {
+      "value": 0.17
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11582
+    },
+    "currentRamUsage": {
+      "value": 4033
+    },
+    "currentRamUsagePct": {
+      "value": 26
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39783
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 13
+    },
+    "availableRam": {
+      "value": 9585
+    },
+    "currentRamUsage": {
+      "value": 6030
+    },
+    "currentRamUsagePct": {
+      "value": 39
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.1
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 4
+    },
+    "availableRam": {
+      "value": 11519
+    },
+    "currentRamUsage": {
+      "value": 4096
+    },
+    "currentRamUsagePct": {
+      "value": 27
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39784
+    },
+    "currentDiskUsage": {
+      "value": 28389
+    },
+    "currentDiskUsagePct": {
+      "value": 42
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.01
+    },
+    "netTrafficDown": {
+      "value": 0.07
+    }
+  },
+  {
+    "currentCpuUsage": {
+      "value": 11
+    },
+    "availableRam": {
+      "value": 9524
+    },
+    "currentRamUsage": {
+      "value": 6091
+    },
+    "currentRamUsagePct": {
+      "value": 40
+    },
+    "realTimeCapable": {
+      "value": false
+    },
+    "diskCapacity": {
+      "value": 68172
+    },
+    "availableDisk": {
+      "value": 39066
+    },
+    "currentDiskUsage": {
+      "value": 29106
+    },
+    "currentDiskUsagePct": {
+      "value": 43
+    },
+    "netLostPackages": {
+      "value": 0
+    },
+    "netTrafficUp": {
+      "value": 0.02
+    },
+    "netTrafficDown": {
+      "value": 0.01
+    }
+  }
+]

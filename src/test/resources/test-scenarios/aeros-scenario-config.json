@@ -1,0 +1,94 @@
+{
+  "name": "aeros",
+  "description": "Test executed on aeros, unformed IE data.",
+  "ie": {
+    "id": "urn:ngsi-ld:InfrastructureElement:test:fa163e32c6ee",
+    "cpuCores": 4,
+    "ramCapacity": 15615,
+    "diskCapacity": 68172,
+    "data": "aeros-data.json"
+  },
+  "evaluationMetrics": {
+    "MAPE_CPU": null,
+    "MAPE_RAM": null,
+    "MAPE_DISK": null,
+    "MAPE_AVG": null,
+    "SAMPLE_RATIO": null,
+    "JPM_CPU": null,
+    "JPM_RAM": null,
+    "JPM_DISK": null,
+    "JPM_AVG": null,
+    "ANOMALY_SCORE_CPU": {
+      "name": "SCORING",
+      "anomalyWindows": [
+        {
+          "startIdx": 2789,
+          "endIdx": 3191
+        }
+      ],
+      "truePositiveWeight": 1.0,
+      "falsePositiveWeight": 0.045,
+      "falseNegativeWeight": 1.0,
+      "baseline": -1
+    }
+  },
+  "baseAlgorithmsConfig": [
+    {
+      "type": "ANOMALY",
+      "config": {
+        "type": "ANOMALY",
+        "modelsProperties": [
+          {
+            "name": "CPU_USAGE",
+            "toleranceThresholdAnomaly": 0.01,
+            "toleranceThresholdNormal": 0.05,
+            "windowAnomaly": 1,
+            "windowNormal": 1
+          },
+          {
+            "name": "DISK_USAGE",
+            "toleranceThresholdAnomaly": 0.7,
+            "toleranceThresholdNormal": 0.7,
+            "windowAnomaly": 10,
+            "windowNormal": 10
+          },
+          {
+            "name": "RAM_USAGE",
+            "toleranceThresholdAnomaly": 0.7,
+            "toleranceThresholdNormal": 0.7,
+            "windowAnomaly": 10,
+            "windowNormal": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "SAMPLING",
+      "config": {
+        "type": "SAMPLING",
+        "modelsProperties": [
+          {
+            "type": "RESOURCE",
+            "minPeriod": 1000,
+            "maxPeriod": 6000,
+            "valueWeightFactor": 0.5,
+            "probabilityWeightFactor": 1,
+            "imprecision": 0.6,
+            "multiplicity": 3000
+          },
+          {
+            "type": "ENERGY",
+            "minPeriod": 1000,
+            "maxPeriod": 2000,
+            "valueWeightFactor": 0.5,
+            "probabilityWeightFactor": 1,
+            "imprecision": 0.6,
+            "multiplicity": 10
+          }
+        ]
+      }
+    }
+  ],
+  "algorithmsForComparison": [
+  ]
+}
